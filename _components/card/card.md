@@ -36,6 +36,8 @@ variants:
     description: Sets a fixed aspect ratio on the card media. The default is 16x9, but this can be changed by adding an `add-aspect` utility to the media element, like `usa-card__media--set-aspect.add-aspect-1x1`.
   - variant: "`.usa-card__media--exdent`"
     description: Extends the media element out over the card border. Useful for light-bordered cards
+  - variant: "`.usa-card__header--exdent`"
+    description: Extends the header element out over the card border. Useful for light-bordered cards
   - variant: "`.usa-card__body--exdent`"
     description: Extends the body element out over the card border. Useful for light-bordered cards
   - variant: "`.usa-card__footer--exdent`"
